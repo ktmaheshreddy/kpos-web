@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.d71f18ac.css",
-    "main.js": "/react-gh-pages/static/js/main.082db3cd.js",
-    "static/js/787.59d85d86.chunk.js": "/react-gh-pages/static/js/787.59d85d86.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/react-gh-pages/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/react-gh-pages/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.d71f18ac.css.map": "/react-gh-pages/static/css/main.d71f18ac.css.map",
-    "main.082db3cd.js.map": "/react-gh-pages/static/js/main.082db3cd.js.map",
-    "787.59d85d86.chunk.js.map": "/react-gh-pages/static/js/787.59d85d86.chunk.js.map"
+    "main.css": "/kpos-web/static/css/main.2af52b5a.css",
+    "main.js": "/kpos-web/static/js/main.5f06e1b6.js",
+    "static/js/787.59d85d86.chunk.js": "/kpos-web/static/js/787.59d85d86.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/kpos-web/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/kpos-web/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/logo.svg": "/kpos-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kpos-web/index.html",
+    "main.2af52b5a.css.map": "/kpos-web/static/css/main.2af52b5a.css.map",
+    "main.5f06e1b6.js.map": "/kpos-web/static/js/main.5f06e1b6.js.map",
+    "787.59d85d86.chunk.js.map": "/kpos-web/static/js/787.59d85d86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d71f18ac.css",
-    "static/js/main.082db3cd.js"
+    "static/css/main.2af52b5a.css",
+    "static/js/main.5f06e1b6.js"
   ]
 }
