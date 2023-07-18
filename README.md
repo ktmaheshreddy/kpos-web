@@ -69,5 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+Explore google sheets API docs
+https://developers.google.com/sheets/api/reference/rest/v4/spreadsheets.values/append?apix_params=%7B%22spreadsheetId%22%3A%2210Q-dDN1yT1bb3I4nPSItXrpPYVdp2nXpe6pncf4vJlQ%22%2C%22range%22%3A%22Sheet1%22%2C%22valueInputOption%22%3A%22RAW%22%2C%22resource%22%3A%7B%22majorDimension%22%3A%22ROWS%22%2C%22range%22%3A%22Sheet1%22%2C%22values%22%3A%5B%5B%22id%22%2C%22item%22%5D%5D%7D%7D
+
 
 Bearer ya29.a0AbVbY6Neck4A472njXVTqXoe5XqFk47OEcQYca-BJ95Q6jwSfj2kw0u7vYSeVYEhJvv24EaH-96P2jtzwzQt1t7_w0pzySSpd6P_DkOEbbaar0FcvGxIkNUeuIETMVoLfJYuJ5QaWARHM6aBRXJQv9I5X-FQOqfABZx54waCgYKAbUSARASFQFWKvPlZuJP7iMOw095iAGkj7eFGg0173
