@@ -1,5 +1,8 @@
 import React from "react";
+import ThermalPrinter from "./printer";
 function ItemCart() {
-  return <div>Item cart details come here</div>;
+  return (
+    <ThermalPrinter></ThermalPrinter>
+  );
 }
 export default ItemCart;
