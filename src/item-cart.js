@@ -1,8 +1,22 @@
 import React from "react";
-import ThermalPrinter from "./printer";
+import { useNavigate } from "react-router-dom";
+
 function ItemCart() {
+  const navigate = useNavigate();
+
+  async function handleCheckout() {
+    await navigate("/print");
+    window.print();
+  }
   return (
-    <ThermalPrinter></ThermalPrinter>
+    <div class="check-out">
+      <button
+        class="btn btn-primary bottom btn-lg btn-block"
+        onClick={handleCheckout}
+      >
+        <strong>Checkout</strong>
+      </button>
+    </div>
   );
 }
 export default ItemCart;

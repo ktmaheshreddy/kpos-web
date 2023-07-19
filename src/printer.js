@@ -8,6 +8,9 @@ function ThermalPrinter() {
         <Text>Hello World</Text>
       </Printer>
     );
+    navigator.serial.getPorts().then((ports) => {
+      console.log(ports);
+    });
     const port = await window.navigator.serial.requestPort();
     await port.open({ baudRate: 9600 });
 
